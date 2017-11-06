@@ -1,0 +1,125 @@
+0 0
+1
+John Smith
+123 Sesame St
+0000000000
+E Ottawa Vancouver Canada _ _
+
+0 1
+1
+Jane Smith
+123 Sesame St
+0000000000
+E Ottawa Vancouver Canada _ _
+
+0 2
+1
+Memer McPhee
+420 Blaze Ln
+5648105425
+E Ottawa Vancouver Canada _ _
+
+0 3
+1
+Jane Doe
+124 Sesame St
+0000000001
+E Ottawa Vancouver Canada _ _
+
+0 4
+1
+Rick Sanchez
+45 Meadow Ln
+137
+E Ottawa Vancouver Canada _ _
+
+0 5
+1
+Morty Smith
+45 Meadow Ln
+137
+E Ottawa Vancouver Canada _ _
+
+0 7
+1
+Hayao Miyazaki
+1 Anime Ln
+88888888
+B Ottawa Vancouver Canada Water Dumplings
+
+1 0
+1
+Your Name
+125 Sesame St
+0000000002
+E Ottawa Sydney Australia _ _
+
+1 3
+1
+John Wick
+7 Action St
+1618
+B Ottawa Sydney Australia Orange_juice Standard
+
+1 6
+1
+Hanzo Shimada
+1 Overwatch Street
+456123246
+B Ottawa Sydney Australia Champagne Dragon_fruit
+
+1 8
+1
+Justin Lee
+001 School St
+3185464515
+E Ottawa Sydney Australia _ _
+
+2 0
+1
+John Smith
+59 This Street
+573436
+E Ottawa Sydney Australia _ _
+
+2 2
+1
+Watzit Tooya
+846 Pineapple Road
+7946512
+E Ottawa Sydney Australia _ _
+
+2 5
+1
+Widow Maker
+0 Verwatch Ln
+555
+B Ottawa New_York United_States Tequila Steak
+
+2 6
+1
+David Wallace
+42 Foster Street
+20080912
+B Ottawa Sydney Australia Water Fish
+
+2 7
+1
+Leory Jenkins
+46 Pineapple Road
+34839379
+E Ottawa New_York United_States _ _
+
+2 8
+1
+Howard Flower
+654 Sesame Street
+48651324
+E Ottawa New_York United_States _ _
+
+2 9
+1
+John MacDonald
+7 Something St
+2934823423
+E Ottawa New_York United_States _ _

@@ -1,0 +1,3 @@
+0 Vancouver Canada
+1 New_York United_States
+2 Sydney Australia
